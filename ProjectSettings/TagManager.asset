@@ -6,14 +6,17 @@ TagManager:
   tags:
   - Wall
   - Pickup
+  - Invis
+  - Hidden
+  - Hunter
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Hunter
   - Water
   - UI
-  - 
+  - Player
   - 
   - 
   - 
